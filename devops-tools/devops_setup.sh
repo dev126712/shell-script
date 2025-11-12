@@ -1,5 +1,13 @@
 #!/bin/bash
 
+####################
+# Author: Alexandre St-fort
+# Last modified: 11/11/25
+#
+# This script install Docker, Terraform, AWS CLI, Kubernetes. Compatible with Debian/Ubuntu
+####################
+
+
 set -e
 
 install_docker() {
