@@ -5,4 +5,4 @@ for arg in "$@"; do
     echo "$count: <$arg>"
     ((count++))
 done
-echo "found: $count files" 
+echo "found: $count arguments" 

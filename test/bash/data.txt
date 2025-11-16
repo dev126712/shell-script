@@ -1,5 +1,0 @@
-Alice:101:Student
-Bob:102:Teacher
-Foo:1212:Master
-Ba:6767:Main
-Alexandre:St-fort:Admin

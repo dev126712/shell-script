@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 filedata=(
-    "data-search.bash"
+    "data.txt"
 )
 
 while IFS=: read -r name id desc; do
