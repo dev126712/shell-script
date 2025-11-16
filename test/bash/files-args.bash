@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+
+
 for arg in "$@"; do
     count=0
   # ls -la $arg
