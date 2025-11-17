@@ -1,0 +1,32 @@
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:03: user created FROM create user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:03: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:04: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:04: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:04: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:04: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:04: FROM delete user
+ERROR:User:'1' not found: Sunday,November16,2025-21:04: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:06: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:06: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:06: FROM delete user
+ERROR:User:'q' not found: Sunday,November16,2025-21:06: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:06: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:06: FROM delete user
+ERROR:User:'e' not found: Sunday,November16,2025-21:06: FROM delete user
+ERROR:User name cannot be empty: Sunday,November16,2025-21:06: FROM delete user
+ERROR:command not expected: Sunday,November16,2025-21:06: FROM main
+ERROR:command not expected: Sunday,November16,2025-21:07: FROM main
+ERROR:User:'r' not found: Sunday,November16,2025-21:08: FROM delete user
+ERROR:User:'t' not found: Sunday,November16,2025-21:08: FROM delete user
+ERROR: name is required..: Sunday,November16,2025-21:08: user created FROM create user
+ERROR:User:'t' not found: Sunday,November16,2025-21:09: FROM delete user
+ERROR:command not expected: Sunday,November16,2025-21:09: FROM main
+ERROR:User:'d' not found: Sunday,November16,2025-21:09: FROM delete user
+ERROR:User:'d' not found: Sunday,November16,2025-21:14: FROM delete user

@@ -19,3 +19,69 @@ press 2:Sunday, November 16, 2025 - 19:42:FROM main
 bobb:65:dSunday, November 16, 2025 - 19:43:user created FROM create user
 press 3:Sunday, November 16, 2025 - 19:43:FROM main
 user deleted:bobb:65:d:Sunday, November 16, 2025 - 19:43:FROM delete user 
+press 1: : FROM main
+search all user: : FROM see all users
+press 1: Sunday,November16,2025-20:31: FROM main
+search all user: Sunday, November 16, 2025 - 20:31: FROM see all users
+press 1: Sunday,November16,2025-20:32: FROM main
+search all user: Sunday, November 16, 2025 - 20:32: FROM see all users
+press 2: Sunday,November16,2025-20:32: FROM main
+bob5:fte:ghi: Sunday,November16,2025-20:32: user created FROM create user
+press 3: Sunday,November16,2025-20:32: FROM main
+user deleted: bob5:fte:ghi: Sunday,November16,2025-20:32: FROM delete user 
+press : Sunday,November16,2025-20:35: FROM main
+ERROR:command not expected: Sunday,November16,2025-20:35: FROM main
+press 2: Sunday,November16,2025-20:35: FROM main
+::: Sunday,November16,2025-20:35: user created FROM create user
+press 2: Sunday,November16,2025-20:39: FROM main
+::: Sunday,November16,2025-20:39: user created FROM create user
+press 2: Sunday,November16,2025-20:40: FROM main
+::: Sunday,November16,2025-20:40: user created FROM create user
+press 2: Sunday,November16,2025-20:42: FROM main
+::: Sunday,November16,2025-20:42: user created FROM create user
+press 2: Sunday,November16,2025-20:46: FROM main
+ee:d:: Sunday,November16,2025-20:46: user created FROM create user
+ee::: Sunday,November16,2025-20:47: user created FROM create user
+ee::: Sunday,November16,2025-20:47: user created FROM create user
+ee:s:s: Sunday,November16,2025-20:47: user created FROM create user
+press 2: Sunday,November16,2025-20:47: FROM main
+e:e:3: Sunday,November16,2025-20:49: user created FROM create user
+press 2: Sunday,November16,2025-20:49: FROM main
+press 2: Sunday,November16,2025-20:50: FROM main
+r:54:6: Sunday,November16,2025-20:51: user created FROM create user
+press 3: Sunday,November16,2025-20:51: FROM main
+user deleted: e:e:3: Sunday,November16,2025-20:51: FROM delete user 
+press 3: Sunday,November16,2025-20:52: FROM main
+ERROR:User name cannot be empty: Sunday,November16,2025-20:52: FROM delete user
+press 2: Sunday,November16,2025-21:03: FROM main
+w::: Sunday,November16,2025-21:03: user created FROM create user
+press 3: Sunday,November16,2025-21:03: FROM main
+press 3: Sunday,November16,2025-21:04: FROM main
+press 3: Sunday,November16,2025-21:06: FROM main
+press 3: Sunday,November16,2025-21:06: FROM main
+press 3: Sunday,November16,2025-21:06: FROM main
+user deleted: r:54:6: Sunday,November16,2025-21:06: FROM delete user 
+press w::: Sunday,November16,2025-21:06: FROM main
+press 3: Sunday,November16,2025-21:07: FROM main
+user deleted: w::: Sunday,November16,2025-21:07: FROM delete user 
+press : Sunday,November16,2025-21:07: FROM main
+press 3: Sunday,November16,2025-21:08: FROM main
+press 3: Sunday,November16,2025-21:08: FROM main
+press 2: Sunday,November16,2025-21:08: FROM main
+5::5: Sunday,November16,2025-21:08: user created FROM create user
+press 3: Sunday,November16,2025-21:09: FROM main
+press t: Sunday,November16,2025-21:09: FROM main
+press 3: Sunday,November16,2025-21:09: FROM main
+press 2: Sunday,November16,2025-21:09: FROM main
+4:5:6: Sunday,November16,2025-21:09: user created FROM create user
+press q: Sunday,November16,2025-21:10: FROM main
+press q: Sunday,November16,2025-21:11: FROM main
+press 1: Sunday,November16,2025-21:11: FROM main
+search all user: Sunday, November 16, 2025 - 21:11: FROM see all users
+press 1: Sunday,November16,2025-21:13: FROM main
+search all user: Sunday, November 16, 2025 - 21:13: FROM see all users
+press 1: Sunday,November16,2025-21:14: FROM main
+search all user: Sunday, November 16, 2025 - 21:14: FROM see all users
+press 3: Sunday,November16,2025-21:14: FROM main
+press q: Sunday,November16,2025-21:14: FROM main
+press q: Sunday,November16,2025-21:15: FROM main
