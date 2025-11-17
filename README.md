@@ -6,7 +6,7 @@ My first project(data-manipulation Folder) is composed of 4 bash files and 3 csv
 ```
 ./main.bash data.csv
 ```
-
+output
 ```
 File data: data.csv
 
@@ -17,6 +17,7 @@ press 2 to create a user
 press 3 to delete a user
 press (q) to quit
 ```
+
 
 
 
