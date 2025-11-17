@@ -7,7 +7,7 @@
 
 
 FILE_DATA=$1
-echo $FILE_DATA
+echo "File data: $FILE_DATA"
 
 home() {
     echo "Welcome by Alexandre St-fort"
