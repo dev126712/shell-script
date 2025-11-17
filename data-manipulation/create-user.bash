@@ -35,6 +35,7 @@ create_user() {
 
     echo "User added"
     ./main.bash $FILE_DATA
+    exit 0
 }
 
 #id_generator() {}

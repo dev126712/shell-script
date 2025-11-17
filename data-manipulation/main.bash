@@ -27,10 +27,13 @@ home() {
     fi
     if [ $a == "1" ];then
         ./see-all-user.bash $FILE_DATA
+        exit 0
     elif [ $a == "2" ];then
         ./create-user.bash $FILE_DATA
+        exit 0
     elif [ $a == "3" ];then
         ./delete-user.bash $FILE_DATA
+        exit 0
     elif [ $a == "q" ];then
         exit 0
     else

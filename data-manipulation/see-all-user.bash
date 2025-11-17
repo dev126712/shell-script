@@ -22,6 +22,7 @@ seeAllUser() {
     printf "search all user: `date +"%A, %B %d, %Y - %H:%M"`: FROM see all users\n" >> command-history.csv
     echo "$usercount users registered"
     ./main.bash $FILE_DATA
+    exit 0
 }
 
 main() {

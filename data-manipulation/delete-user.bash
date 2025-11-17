@@ -28,8 +28,7 @@ delete_user() {
             sed -i "/^${NameToDelete}:/d" "$FILE_DATA"
             printf "user deleted: $name:$id:$desc: `date +"%A,%B%d,%Y-%H:%M"`: FROM delete user \n" >> command-history.csv 
             echo "user: "$name:$id:$desc" deleted"
-            ./main.bash $FILE_DATA
-            exit 0
+            continue
         fi
     done < $FILE_DATA
 
@@ -46,6 +45,7 @@ delete_user() {
 
 main (){
     delete_user
+    ./main.bash $FILE_DATA
 }
 
 main
