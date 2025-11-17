@@ -40,6 +40,7 @@ delete_user() {
         echo "Error: User '$NameToDelete' not found"
         printf "ERROR:User:'$NameToDelete' not found: `date +"%A,%B%d,%Y-%H:%M"`: FROM delete user\n" >> error.csv
         ./main.bash $FILE_DATA
+        exit 0
     fi    
 } 
 
