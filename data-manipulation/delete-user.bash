@@ -16,6 +16,7 @@ delete_user() {
 
     if [ -z "$NameToDelete" ]; then
         echo "Error: User name cannot be empty."
+        printf "ERROR User name cannot be empty:`date + "%A, %B %d, %Y - %H:%M"`:FROM delete user\n" >> command-history.csv
         exit 1
     fi
 
@@ -25,6 +26,7 @@ delete_user() {
     while IFS=: read -r name id desc; do
         if [ "$name" == "$NameToDelete" ]; then
             sed -i "/^${NameToDelete}:/d" "$FILE_DATA"
+            printf "user deleted:$name:$id:$desc:`date +"%A, %B %d, %Y - %H:%M"`:FROM delete user \n" >> command-history.csv 
             echo "user: "$name:$id:$desc" deleted"
             exit 0
         fi
@@ -35,6 +37,7 @@ delete_user() {
 
     if [ "$LINES_BEFORE" == "$LINES_AFTER" ]; then
         echo "Error: User '$NameToDelete' not found"
+        printf "ERROR: User '$NameToDelete' not found:`date +"%A, %B %d, %Y - %H:%M"`:FROM delete user\n" >> command-history.csv
         exit 1
     fi    
 } 

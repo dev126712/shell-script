@@ -16,6 +16,8 @@ read user_id
 echo "Description: " 
 read user_description
 
+printf "$user_name:$user_id:$user_description`date +"%A, %B %d, %Y - %H:%M"`:user created FROM create user\n" >> command-history.csv
+
 newuser="$user_name:$user_id:$user_description"
 printf "$newuser\n" >> $userlog
 echo "User added"
