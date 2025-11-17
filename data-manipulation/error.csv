@@ -30,3 +30,9 @@ ERROR:User:'t' not found: Sunday,November16,2025-21:09: FROM delete user
 ERROR:command not expected: Sunday,November16,2025-21:09: FROM main
 ERROR:User:'d' not found: Sunday,November16,2025-21:09: FROM delete user
 ERROR:User:'d' not found: Sunday,November16,2025-21:14: FROM delete user
+ERROR: name is required..: : user created FROM create user
+ERROR: name is required..: : user created FROM create user
+ERROR: name is required..: : user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:22: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:22: user created FROM create user
+ERROR: name is required..: Sunday,November16,2025-21:22: user created FROM create user
