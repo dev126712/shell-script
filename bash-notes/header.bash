@@ -18,11 +18,14 @@ awk 'NR==1{print length($0)}' people-1000.csv
 awk '{print length($0)}' people-1000.csv 
 
 
-# replace every " " by "-"
-sed -zi 's/ /-/g;' people-1000.csv 
+# replace every "-" by " "
+sed -zi 's/-/ /g;' people-1000.csv 
+
+# replace every ":" by ","
+sed -zi 's/:/,/g;' people-1000.csv >> list.csv
 
 # replace every "-" by " "
 sed -zi 's/-/ /g;' people-1000.csv >> list.csv
 
-# replace every "," by ":"
-sed -zi 's/,/:/g;' people-1000.csv
+# replace every _/ by nothing. \ = escaping
+sed -zi 's/_\///g;' people-1000.csv
