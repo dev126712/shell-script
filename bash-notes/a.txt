@@ -1,0 +1,2 @@
+❌ Running in non-interactive mode (Terminal not detected).
+This output is plain, suitable for files or pipes.

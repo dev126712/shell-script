@@ -32,5 +32,5 @@ sed -zi 's/_\///g' people-1000.csv
 
 list=$(cat list.csv)
 
-# 1s = only touch the first row .* everything on that row and then replace by the $list
+# 1s = only touch the first row .* everything on that row and then replace by $list
 sed -i "1s/.*/$list/" people-1000.csv
