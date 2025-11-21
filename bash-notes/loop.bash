@@ -13,8 +13,6 @@
 #    echo "$REPLY : $choice"
 #done
 
-#!/bin/bash
-
 # --- Check if standard output (FD 1) is a terminal ---
 if [[ -t 1 ]]; then
     # Standard output IS a terminal (e.g., the user is viewing the output directly)
